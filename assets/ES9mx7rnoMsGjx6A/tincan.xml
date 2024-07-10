@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://61qItz4wGgL_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">CleanSan_Quiz</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/5d0oHpOB1qu" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">CleanSan_Quiz</name>
+			<description lang="und">CleanSan_Quiz</description>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/5xtcAxL0JYA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">How often should you clean and sanitize in a store?</name>
+			<description lang="und">How often should you clean and sanitize in a store?</description>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/5xtcAxL0JYA/5boUZXjPVsC" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">How often should you clean and sanitize in a store?</name>
+			<description lang="und">How often should you clean and sanitize in a store?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6esX33zy6ey</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5pot3EdaLbg</id>
+					<description lang="und">Every 4 hours</description>
+				</component>
+				<component>
+					<id>choice_5m8qo5zVKBQ</id>
+					<description lang="und">1 hour before opening</description>
+				</component>
+				<component>
+					<id>choice_6esX33zy6ey</id>
+					<description lang="und">Every 2 hours</description>
+				</component>
+				<component>
+					<id>choice_6HnwqQ4Eva7</id>
+					<description lang="und">While closing</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/64W98sZNKmF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">How long should you wash equipment with suds for?</name>
+			<description lang="und">How long should you wash equipment with suds for?</description>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/64W98sZNKmF/5m7051GRql1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">How long should you wash equipment with suds for?</name>
+			<description lang="und">How long should you wash equipment with suds for?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5XRqSf7LBt5</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5XRqSf7LBt5</id>
+					<description lang="und">At least 30 seconds, and until all debris is gone</description>
+				</component>
+				<component>
+					<id>choice_6duLHrGn1iL</id>
+					<description lang="und">Scrub 15 times back and forth</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/68EFM5f86tm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Where can you find the acceptable range for the parts per million (ppm) for sanitizer?</name>
+			<description lang="und">Where can you find the acceptable range for the parts per million (ppm) for sanitizer?</description>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/68EFM5f86tm/5Uuj9mh38dZ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Where can you find the acceptable range for the parts per million (ppm) for sanitizer?</name>
+			<description lang="und">Where can you find the acceptable range for the parts per million (ppm) for sanitizer?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6qBIXq8Pz40</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6m7V70B7kr0</id>
+					<description lang="und">It is always 150-400 ppm</description>
+				</component>
+				<component>
+					<id>choice_6qBIXq8Pz40</id>
+					<description lang="und">The sanitizer chemical label</description>
+				</component>
+				<component>
+					<id>choice_6RzVnosWOhR</id>
+					<description lang="und">Searching online</description>
+				</component>
+				<component>
+					<id>choice_6qwBJT7v4xy</id>
+					<description lang="und">Trick question, there is no need to check</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/6nKOy34icy6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">How long does a utensil need to sit in sanitizer for?</name>
+			<description lang="und">How long does a utensil need to sit in sanitizer for?</description>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/6nKOy34icy6/5lAnkmgfHJc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">How long does a utensil need to sit in sanitizer for?</name>
+			<description lang="und">How long does a utensil need to sit in sanitizer for?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5oH7hwMdAZ7</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6mk2fjX5ViG</id>
+					<description lang="und">10 seconds</description>
+				</component>
+				<component>
+					<id>choice_5c3hcvVeMtO</id>
+					<description lang="und">30 seconds</description>
+				</component>
+				<component>
+					<id>choice_5oH7hwMdAZ7</id>
+					<description lang="und">60 seconds</description>
+				</component>
+				<component>
+					<id>choice_6GCEndzbotX</id>
+					<description lang="und">240 seconds</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/5tsZQISRQYu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Which of the following surfaces need to be cleaned using food contact surface procedures?</name>
+			<description lang="und">Which of the following surfaces need to be cleaned using food contact surface procedures?</description>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/5tsZQISRQYu/6McF6gVo72R" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Which of the following surfaces need to be cleaned using food contact surface procedures?</name>
+			<description lang="und">Which of the following surfaces need to be cleaned using food contact surface procedures?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5ZCErYjvwqO</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6BKAAhLnIf2</id>
+					<description lang="und">Makeline </description>
+				</component>
+				<component>
+					<id>choice_5uEsAJLztYH</id>
+					<description lang="und">Stretch Table</description>
+				</component>
+				<component>
+					<id>choice_5qKKPJ5ON77</id>
+					<description lang="und">Cut Table</description>
+				</component>
+				<component>
+					<id>choice_5ZCErYjvwqO</id>
+					<description lang="und">All of the above</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://61qItz4wGgL_course_id/60pGndWX6eN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Results Slide</name>
+			<description lang="und">Results Slide</description>
+		</activity>
+	</activities>
+</tincan>

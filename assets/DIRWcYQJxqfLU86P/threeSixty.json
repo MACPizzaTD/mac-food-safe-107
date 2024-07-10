@@ -1,0 +1,49 @@
+{
+  "version": "3.25.18088.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6ffmC7rs1xC",
+      "title": "True or False?\nJean, a driver in your store is about to hop on the cut table after returning from a delivery. \r\nHe needs to wash his hands before he starts.",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6eDbEebiPLe",
+      "title": "True or False?\nAnother driver returns from their delivery within \r25 minutes. Jean gives her a high five to celebrate. \n\nJean now needs wash his hands.",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5kbD7bEeiWz",
+      "title": "True or False?\nJean hops over to take a phone order. He enters the order in Pulse then moves back to finish his pizza.\n \rJean needs to wash his hands.",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6lHSawncqWb",
+      "title": "True or False?\nJean grabs some dough from the cooler to start proofing it. \n\nJean needs to wash his hands before cutting a pizza?",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5rT4AgK3zA4",
+      "title": "True or False?\nJean has finished cutting the pizza! \n\nJean needs to wash his hands before prepping more pepperoni for tonight's rush.",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6V1gXirF72B",
+      "title": "Thanks for helping Jean get a better grasp on his handwashing skills! \n\n(Just make sure Jean washes his hands after this high-five)",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1460,
+    "height": 881
+  },
+  "stage": {
+    "width": 1440,
+    "height": 810
+  }
+}

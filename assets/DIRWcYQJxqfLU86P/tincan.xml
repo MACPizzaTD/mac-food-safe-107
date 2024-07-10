@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6LZuHXQqMg5_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Handwashing_DragDrop_2</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/6ffmC7rs1xC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">True or False?
+Jean, a driver in your store is about to hop on the cut table after returning from a delivery. 
+He needs to wash his hands before he starts.</name>
+			<description lang="und">True or False?
+Jean, a driver in your store is about to hop on the cut table after returning from a delivery. 
+He needs to wash his hands before he starts.</description>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/6ffmC7rs1xC/6IL1q1eRIjk" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">True or False?
+Jean, a driver in your store is about to hop on the cut table after returning from a delivery. 
+He needs to wash his hands before he starts.</name>
+			<description lang="und">True or False?
+Jean, a driver in your store is about to hop on the cut table after returning from a delivery. 
+He needs to wash his hands before he starts.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6qBI8judP8a</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6qBI8judP8a</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6m5iWAtiK4G</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/6eDbEebiPLe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">True or False?
+Another driver returns from their delivery within 25 minutes. Jean gives her a high five to celebrate. 
+
+Jean now needs wash his hands.</name>
+			<description lang="und">True or False?
+Another driver returns from their delivery within 25 minutes. Jean gives her a high five to celebrate. 
+
+Jean now needs wash his hands.</description>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/6eDbEebiPLe/693gkZvmSxw" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">True or False?
+Another driver returns from their delivery within 25 minutes. Jean gives her a high five to celebrate. 
+
+Jean now needs wash his hands.</name>
+			<description lang="und">True or False?
+Another driver returns from their delivery within 25 minutes. Jean gives her a high five to celebrate. 
+
+Jean now needs wash his hands.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6KzRJ3qlnHR</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6KzRJ3qlnHR</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_5WFuT2NnPZg</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/5kbD7bEeiWz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">True or False?
+Jean hops over to take a phone order. He enters the order in Pulse then moves back to finish his pizza.
+ Jean needs to wash his hands.</name>
+			<description lang="und">True or False?
+Jean hops over to take a phone order. He enters the order in Pulse then moves back to finish his pizza.
+ Jean needs to wash his hands.</description>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/5kbD7bEeiWz/6lmZM7rQYVP" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">True or False?
+Jean hops over to take a phone order. He enters the order in Pulse then moves back to finish his pizza.
+ Jean needs to wash his hands.</name>
+			<description lang="und">True or False?
+Jean hops over to take a phone order. He enters the order in Pulse then moves back to finish his pizza.
+ Jean needs to wash his hands.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6Hu0RBErc1c</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6Hu0RBErc1c</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_5ogbq0WHTaf</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/6lHSawncqWb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">True or False?
+Jean grabs some dough from the cooler to start proofing it. 
+
+Jean needs to wash his hands before cutting a pizza?</name>
+			<description lang="und">True or False?
+Jean grabs some dough from the cooler to start proofing it. 
+
+Jean needs to wash his hands before cutting a pizza?</description>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/6lHSawncqWb/5fVFRcECLCF" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">True or False?
+Jean grabs some dough from the cooler to start proofing it. 
+
+Jean needs to wash his hands before cutting a pizza?</name>
+			<description lang="und">True or False?
+Jean grabs some dough from the cooler to start proofing it. 
+
+Jean needs to wash his hands before cutting a pizza?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6RO3O4STUL5</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6RO3O4STUL5</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_5ccKeoMovzi</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/5rT4AgK3zA4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">True or False?
+Jean has finished cutting the pizza! 
+
+Jean needs to wash his hands before prepping more pepperoni for tonight's rush.</name>
+			<description lang="und">True or False?
+Jean has finished cutting the pizza! 
+
+Jean needs to wash his hands before prepping more pepperoni for tonight's rush.</description>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/5rT4AgK3zA4/5tXd9FtKATe" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">True or False?
+Jean has finished cutting the pizza! 
+
+Jean needs to wash his hands before prepping more pepperoni for tonight's rush.</name>
+			<description lang="und">True or False?
+Jean has finished cutting the pizza! 
+
+Jean needs to wash his hands before prepping more pepperoni for tonight's rush.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5au67t00M81</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5au67t00M81</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_5ecpu9vpQoH</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://6LZuHXQqMg5_course_id/6V1gXirF72B" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thanks for helping Jean get a better grasp on his handwashing skills! 
+
+(Just make sure Jean washes his hands after this high-five)</name>
+			<description lang="und">Thanks for helping Jean get a better grasp on his handwashing skills! 
+
+(Just make sure Jean washes his hands after this high-five)</description>
+		</activity>
+	</activities>
+</tincan>

@@ -1,0 +1,49 @@
+{
+  "version": "3.25.18088.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5xtcAxL0JYA",
+      "title": "How often should you clean and sanitize in a store?",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "64W98sZNKmF",
+      "title": "How long should you wash equipment with suds for?",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "68EFM5f86tm",
+      "title": "Where can you find the acceptable range for the parts per million (ppm) for sanitizer?",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6nKOy34icy6",
+      "title": "How long does a utensil need to sit in sanitizer for?",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5tsZQISRQYu",
+      "title": "Which of the following surfaces need to be cleaned using food contact surface procedures?",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "60pGndWX6eN",
+      "title": "Results Slide",
+      "scene_index": "1.6"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1460,
+    "height": 920
+  },
+  "stage": {
+    "width": 1440,
+    "height": 900
+  }
+}
